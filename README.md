@@ -1,4 +1,4 @@
-### https://youtu.be/s2Yzhh29u_Q
+### vidoe link - https://youtu.be/s2Yzhh29u_Q
 # Jenkins Master and Slave configuration
 
 ## 🧰 Prerequisites
